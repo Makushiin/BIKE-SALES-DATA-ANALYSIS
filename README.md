@@ -31,7 +31,7 @@ The purpose of this project is twofold:
 ## 💡 How to Use  
 
 - Review the `bike.sql` file for SQL queries used in this analysis.  
-- Check out `BI_dashboard.JPG` to see how the insights are presented visually.  
+- Check out `Bike Dashboard.pdf` to see how the insights are presented visually.  
 
 Feel free to fork this repository, explore the files, or use this project as inspiration for your own SQL and Power BI learning journey!  
 
